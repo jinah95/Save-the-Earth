@@ -67,3 +67,6 @@
     - [피그마 링크](https://www.figma.com/file/QKl2Pe8wkX3wkhMlImbk4O/9%ED%8C%80-%EA%B8%B0%ED%9A%8D-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1)
 - 스토리 보드 및 유저 시나리오
     - [스프레드 시트 링크](https://docs.google.com/spreadsheets/d/19EDr9yRubSbaWsYZ8wUghpglRLKflupVnYKsPq4Ig_I/edit?usp=sharing)
+    
+### **`👉 추가 설명은 노션에서 확인해주세요`**    
+[구해줘,지구🌎](https://www.notion.so/frontend-jinah/2aaaadc062044f8d8e0fbcff0eecca92)
